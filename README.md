@@ -29,8 +29,8 @@ Github Stats📊
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=Keonbe&theme=shades-of-purple">
-  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=Tarkkailija&theme=shades-of-purple&hide_border=true">
-   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarkkailija&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact">
+  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=Keonbe&theme=shades-of-purple&hide_border=true">
+   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Keonbe&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 </br>
