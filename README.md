@@ -27,18 +27,20 @@ Keanu</a></h1>
 Github Stats📊
 </h3>
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=keonbe&theme=default&show_icons=true&hide_border=true&count_private=true">
-    <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=keonbe&theme=default&hide_border=true">
-     <img height="50%" width="auto" src =" https://github-readme-stats.vercel.app/api/top-langs/?username=keonbe&theme=default&show_icons=true&hide_border=true&layout=compact">
-</p>
+<div style="text-align: center;">
+  <p>
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=keonbe&theme=default&show_icons=true&hide_border=true&count_private=true"><p style="text-align:center">
+    <!---<img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=keonbe&theme=default&hide_border=true"><p style="text-align:center">--->
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=keonbe&theme=default&show_icons=true&hide_border=true&layout=compact"><p style="text-align:center">
+  </p>
+</div>
 
 </br>
 
+<!---
 <h3>
 Connect
 </h3>
-<!---
 Linkedin, fb any socmed really
 --->
 
