@@ -17,8 +17,15 @@ Keanu</a></h1>
 
 </br>
 
-## Currently learning 🧑‍💻 :
-</br> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000"> <img src = "https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000"> <img src ="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+## Currently Learning 🧑‍💻 :
+</br> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,figma,git,html,css,vercel,linux,md,bash,arduino&theme=dark &perline=3" />
+    <!--<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=dark" /> -->
+  </a>
+</p>
+<!-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/> -->
 <!--I just learned how to use PREVIEW and EDIT TAB on top left-->
 <hr>
 
