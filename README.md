@@ -10,7 +10,7 @@ Keanu</a></h1>
 ## About me👈 :
 <h3>
   <ul>
-    <li> 🎓 Taking up <a href="https://www.dlsud.edu.ph/programs/cscs/bsit.htm">BS in Information Technology Major in Web Development
+    <li> 🎓 Taking up <a href="https://www.dlsud.edu.ph/programs/cics/bsit.htm">BS in Information Technology Major in Web Development
     <li> 🙋 I am interested for opportunities and collaborations
     <li> 📣 You can message me at <a href="keanuonealbembo@gmail.com">keanu.bembo@gmail.com</a>
 </h3>
