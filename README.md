@@ -29,17 +29,16 @@ Keanu</a></h1>
 <!--I just learned how to use PREVIEW and EDIT TAB on top left-->
 <hr>
 
-<h3>
-Github Stats📊
-</h3>
+<h3>Github Stats 📊</h3>
 
-<div style="text-align: center;">
+<div align="center">
   <p>
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=keonbe&theme=default&show_icons=true&hide_border=true&count_private=true"><p style="text-align:center">
-    <!---<img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=keonbe&theme=default&hide_border=true"><p style="text-align:center">--->
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=keonbe&theme=default&show_icons=true&hide_border=true&layout=compact"><p style="text-align:center">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Keonbe&theme=default&show_icons=true&hide_border=true&count_private=true">
+    <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Keonbe&theme=default&hide_border=true">
+    <img height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keonbe&theme=default&show_icons=true&hide_border=true&layout=compact">
   </p>
 </div>
+
 
 </br>
 
