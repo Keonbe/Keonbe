@@ -21,7 +21,12 @@ Keanu</a></h1>
 </br> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,figma,git,html,css,vercel,linux,md,bash,arduino&theme=dark &perline=3" />
+    <h4>Languages</h4>
+    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,git,html,css,bash,arduino&theme=dark &perline=3" />
+    <h4>Softwares</h4>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,vercel,neovim,vim,obsidian,latex&theme=dark &perline=3" />
+    <h4>Platforms</h4>
+     <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu&theme=dark &perline=3" />
     <!--<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=dark" /> -->
   </a>
 </p>
