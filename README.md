@@ -6,6 +6,7 @@ Keanu</a></h1>
 
 <hr> 
 </br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CDD6F4&background=1E1E2E00&vCenter=true&width=435&lines=3rd+year+IT+student;Learning+Web+Development;Open+to+Internships" alt="Typing SVG" /></a>
 
 ## About me👈 :
 <h3>
@@ -22,9 +23,11 @@ Keanu</a></h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,git,html,css,bash,arduino&theme=dark &perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,cs,python,bash,arduino&theme=dark &perline=3" />
+    <h4>Web Dev Stack</h4>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,php,mysql&theme=dark &perline=3" />
     <h4>Softwares</h4>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,vercel,neovim,vim,obsidian,latex&theme=dark &perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,neovim,obsidian,latex&theme=dark &perline=3" />
     <h4>Platforms</h4>
      <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu&theme=dark &perline=3" />
     <!--<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=dark" /> -->
