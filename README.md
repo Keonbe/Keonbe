@@ -28,13 +28,12 @@ Keanu</a></h1>
     <h4>Web Dev Stack</h4>
     <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,php,mysql&theme=dark &perline=3" />
     <h4>Softwares</h4>
-     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,neovim,latex&theme=dark"
+     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,neovim,latex&theme=dark"/>
     <h4>Platforms</h4>
      <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu&theme=dark &perline=3" />
-    <!--<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=dark" /> -->
   </a>
 </p>
-<!-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/> -->
+<!--<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=dark" /> -->
 <!--I just learned how to use PREVIEW and EDIT TAB on top left-->
 <hr>
 
