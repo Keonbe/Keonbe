@@ -24,13 +24,13 @@ Keanu</a></h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=java,cs,python,bash&theme=dark &perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,cs,python,bash&theme=dark" /> 
     <h4>Web Dev Stack</h4>
-    <img src="https://skillicons.dev/icons?i=dotnet,html,css,js,php,mysql&theme=dark &perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,dotnet,php,mysql&theme=dark"/> <!-- tailwind -->
     <h4>Softwares</h4>
-     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,neovim,latex&theme=dark"/>
+     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,latex&theme=dark"/>
     <h4>Platforms</h4>
-     <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu&theme=dark &perline=3" />
+     <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu&theme=dark" />
   </a>
 </p>
 <!--<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=dark" /> -->
