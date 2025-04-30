@@ -26,7 +26,7 @@ Keanu</a></h1>
     <h4>Languages</h4>
     <img src="https://skillicons.dev/icons?i=java,cs,python,bash&theme=dark" /> 
     <h4>Web Dev Stack</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,dotnet,php,mysql&theme=dark"/> <!-- tailwind -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,php,mysql,tailwind,bootstrap&theme=dark"/> 
     <h4>Softwares</h4>
      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,latex&theme=dark"/>
     <h4>Platforms</h4>
