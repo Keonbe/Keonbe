@@ -28,9 +28,9 @@ Keanu</a></h1>
     <h4>Web Dev Stack</h4>
     <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,php,mysql,tailwind,bootstrap&theme=dark"/> 
     <h4>Softwares</h4>
-     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,latex&theme=dark"/>
+     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github&theme=dark"/>
     <h4>Platforms</h4>
-     <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
   </a>
 </p>
 <!--<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=dark" /> -->
@@ -41,8 +41,9 @@ Keanu</a></h1>
 
 <div align="center">
   <p>
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Keonbe&theme=default&show_icons=true&hide_border=true&count_private=true">
+   <!-- <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Keonbe&theme=default&show_icons=true&hide_border=true&count_private=true">] -->
     <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Keonbe&theme=default&hide_border=true">
+    </br>
     <img height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keonbe&theme=default&show_icons=true&hide_border=true&layout=compact">
   </p>
 </div>
