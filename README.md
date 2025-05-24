@@ -37,7 +37,7 @@ Hello there! I'm **Keanu Bembo**, a passionate IT student with a focus on Web De
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,dotnet,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,dotnet,mysql&theme=dark" />
   </a>
 </p>
 </details>
