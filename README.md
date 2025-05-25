@@ -76,7 +76,8 @@ Hello there! I'm **Keanu Bembo**, a passionate IT student with a focus on Web De
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keonbe&theme=Default&hide_border=true" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keonbe&theme=Default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keonbe&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+<!--<![Keonbe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keonbe&theme=default&show_icons=true&hide_border=true&layout=compact) -->
 </div>
 <!--
 ## 🔄 Recent Activity
