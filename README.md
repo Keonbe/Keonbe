@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D77FF,100:5E17EB&height=200&section=header&text=Keanu%20Bembo&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20IT%20Student&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://raw.githubusercontent.com/Keonbe/Keonbe/main/assets/sparkle-header.gif" width="400"/>
+  <h1>Keanu Bembo</h1>
+  <p><i>Aspiring Web Developer</i></p>
+</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4D77FF&background=1E1E2E00&vCenter=true&width=600&lines=3rd+year+IT+student;Web+Development+Enthusiast;Open+to+Internships" alt="Typing SVG" /></a>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/keanu-bembo-bb2328338/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -7,21 +12,19 @@
     <a href="https://github.com/Keonbe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4D77FF&background=1E1E2E00&vCenter=true&width=600&lines=3rd+year+IT+student;Web+Development+Enthusiast;Open+to+Internships+and+Collaborations" alt="Typing SVG" /></a>
-</div>
 
 ## 🧑‍💻 About Me
+Hi, I'm **Keanu Bembo** — a dedicated Information Technology student specializing in **Web Development**, currently studying at [De La Salle University – Dasmariñas](https://www.dlsud.edu.ph/).
 
-Hello there! I'm **Keanu Bembo**, a passionate IT student with a focus on Web Development from Dasmariñas, Philippines.
+🌱 Always learning new things in full-stack web development  
+📌 I love creating **clean, responsive, and user-friendly** websites  
+🤝 Open to internships, collaborations, or just good tech conversations  
+🔍 Currently exploring the intersection of **frontend frameworks** and **backend logic**
 
-- 🎓 Currently pursuing **BS in Information Technology** with a major in **Web Development** at [De La Salle University – Dasmariñas](https://www.dlsud.edu.ph/)
-- 🌱 Constantly learning and expanding my skills in full-stack web development
-- 🔍 Actively seeking internships and collaboration opportunities
-- 💡 Passionate about creating responsive and user-friendly web applications
-- 🌐 Exploring the latest trends in web technologies and frameworks
+Always eager to learn, build, and contribute to real-world projects.
+
 
 ## 🛠️ Tech Stack
-
 <details open>
 <summary><b>Languages</b></summary>
 <br>
@@ -33,11 +36,21 @@ Hello there! I'm **Keanu Bembo**, a passionate IT student with a focus on Web De
 </details>
 
 <details open>
-<summary><b>Web Development</b></summary>
+<summary><b>Frontend Web Development</b></summary>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,dotnet,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><b>Backend Web Development</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,mysql&theme=dark" />
   </a>
 </p>
 </details>
@@ -52,10 +65,27 @@ Hello there! I'm **Keanu Bembo**, a passionate IT student with a focus on Web De
 </p>
 </details>
 
+<!--
 ## 📚 Currently Learning
-- Javascript & React.js for frontend development
-- Node.js and PHP for backend solutions
-- Database management with MySQL
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br/>
+        <div style="background-color: #f0f0f0; border-radius: 10px; height: 10px; width: 100%; margin-top: 5px;">
+          <div style="background-color: #2DD4BF; border-radius: 10px; height: 10px; width: 60%;"></div>
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br/>
+        <div style="background-color: #f0f0f0; border-radius: 10px; height: 10px; width: 100%; margin-top: 5px;">
+          <div style="background-color: #2DD4BF; border-radius: 10px; height: 10px; width: 65%;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+-->
 
 <!--
 ## 🚀 Featured Projects
@@ -74,6 +104,10 @@ Hello there! I'm **Keanu Bembo**, a passionate IT student with a focus on Web De
 ## 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keonbe&theme=vue" width="70%" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keonbe&theme=Default&hide_border=true" alt="GitHub Streak" />
   <br />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keonbe&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
@@ -85,18 +119,21 @@ Hello there! I'm **Keanu Bembo**, a passionate IT student with a focus on Web De
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
+I'm always open to discussing tech, sharing ideas, or exploring collaboration opportunities. Feel free to reach out!
 
-I'm always open to discussing technology, web development, or potential collaborations. Feel free to reach out to me on:
+<p align="center">
+  <a href="https://www.linkedin.com/in/keanu-bembo-bb2328338/"><img src="https://img.shields.io/badge/-Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:keanuonealbembo@gmail.com"><img src="https://img.shields.io/badge/-Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- LinkedIn: [Keanu Bembo](https://www.linkedin.com/in/keanu-bembo-bb2328338/)
-- Email: [keanuonealbembo@gmail.com](mailto:keanuonealbembo@gmail.com)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E17EB,100:4D77FF&height=120&section=footer" width="100%" />
-</div>
-
+---
 <!-- Profile visitors count -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Keonbe&color=4D77FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <br/>
+  <sub>Last updated: June 2025</sub>
 </div>
+
+
+
