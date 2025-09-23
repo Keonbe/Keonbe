@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Keonbe/Keonbe/main/assets/sparkle-header.gif" width="400"/>
   <h1>Keanu Bembo</h1>
   <p><i>Aspiring Web Developer</i></p>
 </div>
