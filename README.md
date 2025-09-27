@@ -127,12 +127,12 @@ I'm always open to discussing tech, sharing ideas, or exploring collaboration op
 </p>
 
 ---
-<!-- Profile visitors count -->
+<!-- Profile visitors count
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Keonbe&color=4D77FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br/>
   <sub>Last updated: June 2025</sub>
-</div>
+</div> -->
 
 
 
