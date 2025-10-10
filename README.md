@@ -39,7 +39,7 @@ Always eager to learn, build, and contribute to real-world projects.
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
   </a>
 </p>
 </details>
@@ -59,7 +59,7 @@ Always eager to learn, build, and contribute to real-world projects.
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,windows,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,git,github,windows,linux,androidstudio&theme=dark" />
   </a>
 </p>
 </details>
