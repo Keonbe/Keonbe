@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Keanu Bembo</h1>
-  <p><i>Aspiring Web Developer</i></p>
+  <p><i>Web Developer</i></p>
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4D77FF&background=1E1E2E00&vCenter=true&width=600&lines=3rd+year+IT+student;Web+Development+Enthusiast;Open+to+Internships" alt="Typing SVG" /></a>
